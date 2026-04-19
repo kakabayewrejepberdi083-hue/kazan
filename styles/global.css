@@ -1,0 +1,19 @@
+.logo {
+  color: #780116;
+  background-color: #e0a309;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.all-videos{
+  border: 2px solid #f7b510;
+  border-radius: 20px;
+  width: 339px;
+}
+.text{
+    color: #f7b510;
+    margin: 1% 2%;
+}
+.title{
+  background-color: #f7b510;
+  color: #780116;
+}

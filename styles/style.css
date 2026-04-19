@@ -1,0 +1,197 @@
+*{
+  background-color: black;
+  color: white;
+}
+body {
+  margin: 0;
+  font-family: Arial;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1px 20px;
+  border: 5px solid #780116;
+  border-radius: 10px;
+  background-color: #f7b510;
+}
+.menu {
+  background-color: #f7b510;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+.main__menu{
+  background-color: #e0a309;
+  border: 3px solid #780116;
+  border-radius: 20px;
+  padding: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.main__menu:active{
+  background-color: #780116;
+}
+.search {
+  background-color: #e0a309;
+  border: 3.5px solid #780116;
+  padding: 5px;
+  margin: 30px;
+  border-radius: 9px;
+  color: #f7b510;
+}
+.search:focus{
+  background-color: #780116;
+}
+.kazan-videos{
+  display: flex;
+  gap: 5px;
+}
+.kazan-foto{
+  display: flex;
+  gap: 6px;
+}
+.kazan{
+  width: 335px;
+  height: 200px;
+  border: 3px solid #f7b510;
+  border-radius: 15px;
+}
+.rossiya-photo{
+  display: flex;
+  gap: 8px;
+}
+.kazan-photo{
+  width: 265px;
+  height: 180px;
+  border: 2.7px solid #f7b510;
+  border-radius: 15px;
+}
+.kazan-view{
+  display: flex;
+  gap: 7px;
+}
+.kazan-pic{
+  margin-top: 2px;
+  width: 220px;
+  height: 120px;
+  border: 2.7px solid #f7b510;
+  border-radius: 15px;
+}
+.tatarstan-picture{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 265px;
+  height: 150px;
+  border: 2px solid #f7b510;
+  border-radius: 15px;
+}
+.library-foto{
+  text-align: center;
+  width: 339px;
+}
+.library-foto-1{
+  display: flex;
+  gap: 9px;
+  margin-top: -30px;
+}
+.national-picture{
+  width: 335px;
+  height: 194px;
+  border: 2px solid #f7b510;
+  border-radius: 10px;
+}
+.card{
+  display: flex;
+  gap: 8px;
+} 
+.kreml{
+  margin-top:8px;
+  width: 162px;
+  height: 220px;
+  border: 2px solid #f7b510;
+  border-radius: 10px;
+}
+.millenium{
+  display: flex;
+  gap: 10px;
+}
+.millenium__img{
+  width: 338px;
+  height: 200px;
+  border: 2px solid #f7b510;
+  border-radius: 15px;
+}
+.millenium-bridge{
+  display: flex;
+  gap: 10px;
+}
+.millenium-bridge__img{
+  margin-top: 6px;
+  border: 2px solid #f7b510;
+  border-radius: 15px;
+  width: 268px;
+  height: 180px;
+}
+.family-center{
+  display: flex;
+  gap: 6px;
+}
+.family-center-img{
+  width: 337px;
+  height: 200px;
+  border: 2px solid #f7b510;
+  border-radius: 15px;
+}
+.kazan-family-center{
+  display: flex;
+  gap: 6px;
+}
+.kazan-family-center-img{
+  margin-top: 6px;
+  border: 2px solid #f7b510;
+  border-radius: 15px;
+  width: 268px;
+  height: 180px;
+}
+.kfu{
+  display: flex;
+  gap: 6px;
+}
+.university-avatar{
+  border: 2.7px solid #f7b510;
+  border-radius: 15px;
+  width: 452px;
+  height: 230px;
+}
+.university-view{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.kfu-university{
+  display: flex;
+  gap: 7px;
+}
+.university-galery{
+  display: flex;
+  gap: 10px;
+  width: 337px;
+  height: 200px;
+  padding-bottom: 15px;
+  border: 2px solid #f7b510;
+  border-radius: 15px;
+}
+.library-galery{
+  display: flex;
+  gap: 10px;
+  padding-bottom: 50px;
+}
+.kremlin-gallery-item{
+  display: flex;
+  gap: 5px;
+  padding-bottom: 10px;
+}
+
+
