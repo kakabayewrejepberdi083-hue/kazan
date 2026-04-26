@@ -35,7 +35,8 @@ The goal of this project is to showcase the beauty, architecture, and atmosphere
 > Note: All media used in this project are for educational purposes.
 
 ## 🚀 Live Demo
-(Add your GitHub Pages link here)
+    (https://kakabayewrejepberdi083-hue.github.io/kazan/)
+    
 
 ## 📷 Screenshots
 (Add screenshots of your website here)
@@ -45,8 +46,6 @@ If you want to run this project locally:
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+cd kazan
 ##  Author
 - Kakabayew Rejepberdi
-## 🚀 Live Demo
- https://kakabayewrejepberdi083-hue.github.io/kazan/
