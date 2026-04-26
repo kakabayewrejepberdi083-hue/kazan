@@ -35,7 +35,8 @@ The goal of this project is to showcase the beauty, architecture, and atmosphere
 > Note: All media used in this project are for educational purposes.
 
 ## 🚀 Live Demo
-    https://kakabayewrejepberdi083-hue.github.io/kazan/
+        [Canlı Demoyu Görüntülemek İçin Tıklayın](https://kakabayewrejepberdi083-hue.github.io/kazan/)
+    
     
 
 ## 📷 Screenshots
