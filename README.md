@@ -43,7 +43,7 @@ The goal of this project is to showcase the beauty, architecture, and atmosphere
 If you want to run this project locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kakabayewrejepberdi083-hue/kazan.git
 cd kazan
 ##  Author
 - Kakabayew Rejepberdi
